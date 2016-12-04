@@ -11,10 +11,10 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate( Bundle savedInstanceState ) {
 
-        // constructor
+        // -constructor-
         super.onCreate( savedInstanceState );
 
-        // view
+        // -view-
         setContentView( R.layout.activity_main );
     }
 }
