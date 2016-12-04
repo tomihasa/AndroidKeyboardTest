@@ -19,11 +19,12 @@ captures/
 
 # Android Studio Gradle files
 .gradle/
-gradle/
-gradle.properties
-gradlew
-gradlew.bat
-settings.gradle
+
+# gradle/
+# gradle.properties
+# gradlew
+# gradlew.bat
+# settings.gradle
 
 # Android Studio local configuration file
 local.properties
