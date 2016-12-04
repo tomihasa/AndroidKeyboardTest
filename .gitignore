@@ -1,0 +1,44 @@
+# Built application files
+*.apk
+*.ap_
+
+# Generated files
+bin/
+gen/
+out/
+
+# Android Runtime / Dalvik Executable files
+*.dex
+
+# Android Studio project files
+*.iml
+.idea/
+
+# Android Studio captures folder
+captures/
+
+# Android Studio Gradle files
+.gradle/
+gradle/
+gradle.properties
+gradlew
+gradlew.bat
+settings.gradle
+
+# Android Studio local configuration file
+local.properties
+
+# Android Studio external native build folder
+.externalNativeBuild
+
+# Android Studio app directory
+app/libs/
+app/proguard-rules.pro
+app/src/androidTest/
+app/src/test/
+
+# Java libraries in Java Archive Format
+build/
+
+# Mac computers
+.DS_Store
